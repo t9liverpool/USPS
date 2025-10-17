@@ -5,11 +5,11 @@ Codes for "Unknown Support Prototype Set for Open Set Recognition". The correspo
 2. We construct unknown prototypes in semantic space and then map them to deep feature space.
 * Implimentation：
 This repository provides a pytorch-version implementation of USUP. The scripts was tested on CIFAR-10-10. Here are the running commands:<br>
-cd ./backbone
-python3 run.py --dataset cifar-10-10 --split_idx 3  --data_root /root/data
-cd ..
-python3 cgan.py --dataset cifar10 --split 3
-python3 usps.py --dataset cifar10 --split 3
+cd ./backbone<br>
+python3 run.py --dataset cifar-10-10 --split_idx 3  --data_root /root/data<br>
+cd ..<br>
+python3 cgan.py --dataset cifar10 --split 3<br>
+python3 usps.py --dataset cifar10 --split 3<br>
 
 
 * Notes：<br>
