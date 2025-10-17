@@ -1,5 +1,5 @@
 # Codes for "Unknown Support Prototype Set for Open Set Recognition"
-Codes for "Unknown Support Prototype Set for Open Set Recognition". The corresponding paper can be found in \[[link](https://link.springer.com/article/10.1007/s11263-025-02384-9\)]. <br>
+Codes for "Unknown Support Prototype Set for Open Set Recognition". The corresponding paper can be found in \[[link](https://link.springer.com/article/10.1007/s11263-025-02384-9)\]. <br>
 * Highlights：
 1. In contrast with classical prototype-based methods which constructs prototypes for unknown classes, we construct prototypes for unknowns without any available samples.<br>
 2. We construct unknown prototypes in semantic space and then map them to deep feature space.
