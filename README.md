@@ -3,6 +3,7 @@ Codes for "Unknown Support Prototype Set for Open Set Recognition". The correspo
 * Highlights：
 1. In contrast with classical prototype-based methods which constructs prototypes for unknown classes, we construct prototypes for unknowns without any available samples.<br>
 2. We construct unknown prototypes in semantic space and then map them to deep feature space.
+3. 
 * Implimentation：
 This repository provides a pytorch-version implementation of USUP. The scripts was tested on CIFAR-10-10. Here are the running commands:<br>
 1. cd ./backbone
@@ -13,7 +14,7 @@ This repository provides a pytorch-version implementation of USUP. The scripts w
 
 
 * Notes：<br>
-We found sensitive hyperparameters include: training epoch of cgan, adversarial training round and epoch per round.
+Sensitive hyperparameters include: training epoch of cgan, adversarial training round and epoch per round.
  
 If you have any problems, feel free to contact me. Have fun and may it inspire your own idea :-)
 
